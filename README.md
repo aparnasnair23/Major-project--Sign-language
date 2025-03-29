@@ -12,4 +12,4 @@
 10. Now install all the requirements -
 11.                                         pip install requirements.txt 
 12. Run the project -
-                                         python website.py
+13.                                        python website.py
