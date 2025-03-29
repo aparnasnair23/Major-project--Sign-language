@@ -1,7 +1,7 @@
 # Major-project--Sign-language
 
 1. If needed create a virtual environment -
-2. python -m venv virtual
+2.                                         python -m venv virtual
 3. Activate the virtual environment -
 4. virtual\scripts\activate
 5. Clone the github repository
